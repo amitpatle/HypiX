@@ -1,5 +1,8 @@
+<div align="center">
+<a href="https://ibb.co/PtsGLCP"><img src="/standard (2).gif" alt="1" border="0"></a>
+</div>
 
-```markdown
+
 # HypiX
 
 A simple chat interface built with React, TypeScript, and Vite. This project features a sleek black and blue theme and provides a smooth user experience for chatting.
@@ -47,7 +50,7 @@ To get started with this project, follow these steps:
 
 ## Screenshots
 
-![Chat Interface Screenshot](./screenshot.png)
+![Chat Interface Screenshot](/Screenshot.png)
 
 ## Contributing
 
